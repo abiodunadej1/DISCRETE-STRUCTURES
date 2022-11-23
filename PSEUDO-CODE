@@ -1,1 +1,14 @@
 First i decided on the programming language to use (C++)
+After i went over the prompt and then i started to do what i felt in the moment alligned with the prompt.
+My first instinct was to create a program that locks a d unlocks when the user inserts a specific password into it.
+i did that and then after my plan was to start making the necessary changes to fit into the recquirements.
+
+1. Create a main() section and that is where all the code will go
+2. Started off with printing out the title of my project
+3. Next, choose variables and then ascribe fucntions to it.
+4. create a function that allows the user to type in lock and unlock codes.
+5. print out a statement to prompt the user to type in an unlock code.
+6. Use an if statement to determine if the user will bbe let in with the access code or not
+7. Write out statements and set conditions to display either or, Will the user have access or not?
+8. Start working on more complex stuff and get the program to run more effieciently.
+9. 
